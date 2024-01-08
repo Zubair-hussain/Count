@@ -1,0 +1,1 @@
+Counting individuals based on their religion can be used to marginalize, exclude, or even incite violence against them. It's important to remember that Muslims, like any other group of people, are diverse individuals with a wide range of beliefs and experiences. Counting them solely based on their religion ignores their individuality and can contribute to harmful stereotypes
