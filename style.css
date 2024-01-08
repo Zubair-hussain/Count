@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald&family=Roboto:ital,wght@0,300;1,300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: beige;
+}
+
+.fclss{
+    border-bottom: 2px solid  rgb(29, 28, 28);
+}
+
+
+.Salam {
+    color: black;
+    text-align: center;
+    text-decoration: solid;
+    margin-top: 22px;
+    
+    animation: fade-in 2s ease-in-out;
+    /* Customize duration and timing function */
+
+
+
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    /* Start completely transparent */
+    100% {
+        opacity: 1;
+    }
+
+    /* End fully opaque */
+}
+
+.center {
+    width: 30%;
+    height: 50%;
+    margin-top: 7%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 22px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    text-align: center;
+    justify-content: center;
+    border: 20px solid #e9abab;
+
+
+
+
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+#count-el {
+    font-size: 32px;
+
+}
+
+.btn {
+    font-weight: bold;
+    font-size: 22px;
+    margin: 22px;
+    padding: 0 24px;
+    border: 2px solid #dac1c1;
+    border-radius: 22px;
+    background: transparent;
+    color: rgba(29, 28, 28, 0.947);
+
+
+
+
+}
+
+.btn:hover {
+    color: black;
+}
+
+
